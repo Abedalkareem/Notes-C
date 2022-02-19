@@ -7,3 +7,7 @@ A note taking command line app.
 
 <br>
 
+## Features:  
+1- Insert note.  
+2- Delete note.  
+3- Print all the notes.  
